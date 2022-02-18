@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\dfghjk\bin\Debug\net5.0\dfghjk.exe
+C:\Users\Admin\Desktop\dfghjk\bin\Debug\net5.0\dfghjk.deps.json
+C:\Users\Admin\Desktop\dfghjk\bin\Debug\net5.0\dfghjk.runtimeconfig.json
+C:\Users\Admin\Desktop\dfghjk\bin\Debug\net5.0\dfghjk.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\dfghjk\bin\Debug\net5.0\dfghjk.dll
+C:\Users\Admin\Desktop\dfghjk\bin\Debug\net5.0\ref\dfghjk.dll
+C:\Users\Admin\Desktop\dfghjk\bin\Debug\net5.0\dfghjk.pdb
+C:\Users\Admin\Desktop\dfghjk\obj\Debug\net5.0\dfghjk.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dfghjk\obj\Debug\net5.0\dfghjk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dfghjk\obj\Debug\net5.0\dfghjk.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dfghjk\obj\Debug\net5.0\dfghjk.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dfghjk\obj\Debug\net5.0\dfghjk.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dfghjk\obj\Debug\net5.0\dfghjk.dll
+C:\Users\Admin\Desktop\dfghjk\obj\Debug\net5.0\ref\dfghjk.dll
+C:\Users\Admin\Desktop\dfghjk\obj\Debug\net5.0\dfghjk.pdb
+C:\Users\Admin\Desktop\dfghjk\obj\Debug\net5.0\dfghjk.genruntimeconfig.cache
