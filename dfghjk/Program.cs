@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Diagnostics;
-using System.Threading;
 
 
 namespace dfghjk
@@ -10,10 +9,8 @@ namespace dfghjk
       static void Main(string[] args) {
 
           Stopwatch stop = Stopwatch.StartNew();
-          Thread.Sleep(1000);
-          stop.Restart();
-          Thread.Sleep(1000);
-
+          stop.Start();
+          
 
         Random rnd = new Random();
          int[] arr = new int[1000];
